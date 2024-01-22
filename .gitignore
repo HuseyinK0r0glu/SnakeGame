@@ -1,0 +1,37 @@
+# IntelliJ IDEA
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Compiled files
+target/
+bin/
+out/
+
+# Maven
+target/
+log/
+*.iml
+.idea_modules/
+
+# Gradle
+.gradle/
+build/
+
+# Spring Boot
+*.log
+target/
+*.iml
+.idea/
+build/
+!gradle-wrapper.jar
+!**/src/main/**/application.properties
